@@ -3,9 +3,9 @@
  * @Author: sunkl
  * @Date: 2020-10-29 00:40:38
  * @LastEditors: sunkl
- * @LastEditTime: 2020-11-26 02:48:49
+ * @LastEditTime: 2020-11-26 02:54:02
  */
-let baseUrl = ''
+let baseUrl = 's'
 
 switch (process.env.NODE_ENV) {
   case 'development':
